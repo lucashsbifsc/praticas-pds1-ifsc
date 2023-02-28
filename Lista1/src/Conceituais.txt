@@ -1,0 +1,10 @@
+1) Um código-fonte que foi produzido por desenvolvedores que possibilita adicionar novas funções ao código-fonte do software.
+
+2) É uma biblioteca do Java para criar interfaces gráficas.
+ 
+3)a) Botão = JButton
+  b) Campo de Texto = JTextField
+  c) Caixa de Seleção = JCheckBox
+  d) Barra de Progresso = JProgressBar
+  e) Botão de Opção = JRadioButton
+  f) Caixa de Combinação = JComboBox
