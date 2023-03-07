@@ -8,3 +8,7 @@
   d) Barra de Progresso = JProgressBar
   e) Botão de Opção = JRadioButton
   f) Caixa de Combinação = JComboBox
+  
+  4) Layout é como os componentes que colocarmos nesse frame vão se distribuir visualmente nele. Absolute Layout, Flow Layout, Border Layout, Grid Layout, Grid Bag Layout, Card Layout, Box Layout, Spring Layout, Form Layout, Mig Layout e Group Layout.
+  
+  5) 
